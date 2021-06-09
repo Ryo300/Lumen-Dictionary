@@ -1,5 +1,4 @@
-# Lumen-Dictionary
-Indonesian to English and vice versa Dictionary with limited words database. Done for a Human-Computer Interaction class with a few classmates.
+# Lumen Dictionary
 
 ![2  Login Preview](https://user-images.githubusercontent.com/54411533/121326713-02143980-c93d-11eb-9166-f0cbc4f100b2.png)
 ![3  Main Menu Preview](https://user-images.githubusercontent.com/54411533/121326733-050f2a00-c93d-11eb-8d4b-90092d79a2e5.png)
